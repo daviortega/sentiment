@@ -2275,7 +2275,7 @@ overstatements	-2
 overweight	-1
 overwrought	-3
 oxymoron	-1
-pain	-2
+pain	2
 pained	-2
 painful	-2
 panic	-3
